@@ -1,0 +1,12 @@
+{
+  "type": "mysql",
+  "host": "112.124.30.231",
+  "port": 3366,
+  "username": "liuxin",
+  "password": "MfvZZecygI7Ll9lpNU1E",
+  "database": "monitor",
+  "synchronize": false,
+  "logging": false,
+  "autoLoadEntities": true,
+  "entities": ["dist/**/*.entity{.ts,.js}"]
+}
